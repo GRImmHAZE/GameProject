@@ -1,6 +1,6 @@
-<img src="./assets/Paper.png" align="right" />
-<img src="./assets/Rock.png" align="right" />
-<img src="./assets/Scissors.png" align="right" />
+<img src="./assets/Paper.png" align="center" />
+<img src="./assets/Rock.png" align="center" />
+<img src="./assets/Scissors.png" align="center" />
 
 # MiniProject
 
