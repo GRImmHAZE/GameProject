@@ -1,4 +1,6 @@
-<img src="./assets/title.png" align="center" />
+<img src="./assets/Paper.png" align="right" />
+<img src="./assets/Rock.png" align="right" />
+<img src="./assets/Scissors.png" align="right" />
 
 # MiniProject
 
